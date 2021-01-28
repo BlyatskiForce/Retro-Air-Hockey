@@ -19,7 +19,7 @@
       <Path>.git</Path>
       <Path>.idea</Path>
       <Path>.vs</Path>
-      <Path>Gameplay Pictures</Path>
+      <Path>GameplayPics</Path>
       <Path>Library</Path>
       <Path>Logs</Path>
       <Path>obj</Path>
