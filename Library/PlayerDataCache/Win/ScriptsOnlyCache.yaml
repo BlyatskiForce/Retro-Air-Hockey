@@ -16,6 +16,7 @@ ScriptsOnlyBuild:
     - LobbyManager
     - Managers.EndGameManager
     - PUN2_RigidBodySync
+    - PixelateImageEffect
     - PlayerGoalie
     - PlayerManager
     - ProgressSceneLoader
@@ -89,6 +90,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
+    - Class: 96
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
@@ -149,6 +152,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 13632}
     - Class: 114
       Script: {instanceID: 13634}
+    - Class: 114
+      Script: {instanceID: 13706}
     - Class: 114
       Script: {instanceID: 13724}
     - Class: 115
@@ -246,6 +251,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 13632}
     - Class: 114
       Script: {instanceID: 13688}
+    - Class: 114
+      Script: {instanceID: 13706}
     - Class: 114
       Script: {instanceID: 13724}
     - Class: 115
@@ -729,7 +736,7 @@ ScriptsOnlyBuild:
     className: ScrollRect
   - hash:
       serializedVersion: 2
-      Hash: 6d8329287c15a14f00908b45eb816aee
+      Hash: 72fe1afbeac0f206d0de532baf591c12
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PuckOnHit
@@ -1265,5 +1272,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/MenuScreen.unity
   - Assets/Scenes/GameScene.unity
-  playerPath: C:/Users/Fedor/Desktop/Freelancing_work/Giles/Air Hockey related/build/Air
-    Hockey Photon.exe
+  playerPath: C:/Users/Fedor/Desktop/Air Hockey/Air Hockey Photon.exe
